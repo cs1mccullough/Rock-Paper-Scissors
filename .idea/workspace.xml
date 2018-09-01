@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a946f17-a1fc-4dbe-b9a2-dd52f86b9de7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/RockPaperScissors.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RockPaperScissors.js" afterDir="false" />
-    </list>
+    <list default="true" id="9a946f17-a1fc-4dbe-b9a2-dd52f86b9de7" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -117,12 +114,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1535830708824</updated>
-      <workItem from="1535830711279" duration="3879000" />
+      <workItem from="1535830711279" duration="4163000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3879000" />
+    <option name="totallyTimeSpent" value="4163000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="0" width="1378" height="780" extended-state="0" />
